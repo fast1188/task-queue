@@ -13,7 +13,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/fast118/task-queue.git
+git clone https://github.com/fast1188/task-queue.git
 cd task-queue
 # 0 依赖, Python 3.10+ 直接用
 ```
@@ -83,4 +83,4 @@ MIT © fast118
 
 ![微信群](assets/wechat-qr.png)
 
-或提 [GitHub Issue](https://github.com/fast118/task-queue/issues)
+或提 [GitHub Issue](https://github.com/fast1188/task-queue/issues)
